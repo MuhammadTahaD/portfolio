@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# Next.js output
+/.next/
+/out/
+/build/
+
+# local files
+.DS_Store
+*.pem
+*.log
+
+# environment files (keep examples safe)
+.env*
+!.env.example
+
+# tooling
+/coverage
+/.vercel
+/.wrangler
+*.tsbuildinfo
